@@ -8,7 +8,7 @@
 ![Mailson's GitHub stats](https://github-readme-stats.vercel.app/api?username=mailsonalves&show_icons=true&theme=dark)
 
 </div><br/> 
-### Tecnologias que eu utilizo:
+### Tecnologias que eu utilizo: 
 
 
 <div style="display: inline_block">
