@@ -3,8 +3,7 @@
 <div style="display: inline_block">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mailson-alves-3212561a8)
-
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mailsonalveso/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mailsonalveso/)
 
 ![Mailson's GitHub stats](https://github-readme-stats.vercel.app/api?username=mailsonalves&show_icons=true&theme=dark)
 
